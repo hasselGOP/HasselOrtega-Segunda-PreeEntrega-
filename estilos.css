@@ -1,0 +1,23 @@
+body {
+    background: #a1588f;  
+    background: -webkit-linear-gradient(to right, #48183a, #7c2b75); 
+    background: linear-gradient(to right, #48182c, #b178a7); 
+}
+
+h1 {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    display: block;
+    text-align: center;
+    line-height:.8;
+    color: white;
+}
+.contenido {
+    max-width: 1200px;
+    margin: 5rem auto 0 auto;
+    color: white;
+    font-size: 3rem;
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+h1 {
+    font-size: 4rem;
+}
